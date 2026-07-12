@@ -1,0 +1,1 @@
+Create a responsive HTML and CSS section for "DevConf AI Hackathon" with a title, description, three feature cards, and a button. Use a modern and professional design.
